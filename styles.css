@@ -86,7 +86,7 @@ body {
 
 .NAVIGATION {
     display: flex;
-    align-items: center;
+    align-items: left;
 }
 
 .nav-links {
@@ -157,13 +157,13 @@ body {
 .user-actions {
     display: flex;
     align-items: center;
-    gap: 15px; 
+    gap: 5px; 
 }
 
 .user-actions a {
     text-decoration: none;
     font-weight: bold;
-    font-size: 14px;
+    font-size: 8px;
     color: black;
 }
 
